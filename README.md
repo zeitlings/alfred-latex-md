@@ -16,3 +16,6 @@ Pandoc is key and has to be installed:
 
 More information: https://pandoc.org/  
 https://alfredapp.com
+
+---
+
